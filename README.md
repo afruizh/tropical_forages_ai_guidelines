@@ -22,7 +22,7 @@ A curated collection of resources, datasets, models, and tools to support machin
 This repository is designed to help both newcomers and advanced users understand and contribute to the AI, ML, and DL efforts of the Tropical Forages Program. Here you will find links to datasets, models, tools, and documentation relevant to our workflows.
 
 ## Datasets
-A list of useful datasets for tropical forages research. Please add a short description and a link for each dataset.
+A list of useful datasets for tropical forages research. 
 
 | Name                | Description                                 | 
 |---------------------|---------------------------------------------|
@@ -53,6 +53,7 @@ A list of useful datasets for tropical forages research. Please add a short desc
 - [Roboflow](https://roboflow.com/)
 - [LandingLens](https://landing.ai/landinglens)
 - [HugginFace](https://huggingface.co/)
+- [Databricks](https://www.databricks.com/)
 
 
 
@@ -61,16 +62,20 @@ Recommended tools for data annotation, cleaning, and preprocessing.
 
 - [CVAT](https://www.cvat.ai/)
 - [LabelImg](https://github.com/tzutalin/labelImg): Image annotation tool for object detection datasets.
+- [Roboflow](https://roboflow.com/)
+- [Datumaro](https://github.com/open-edge-platform/datumaro): python library for computer vision dataset manipulation (CVAT uses datumaro)
 
+### Auto labeling
 
-
+- Grounding DINO
+- YOLOE model
+- SAM (Segment Anything Model)
 
 ## Image Processing Tools
 
 - [QGIS](https://qgis.org/): Open-source GIS for spatial data processing.
 - [Pliman](https://tiagoolivoto.github.io/pliman/)
 - [PlantCV](https://plantcv.readthedocs.io/en/stable/)
-
 
 
 ## Pipelines & Workflows
