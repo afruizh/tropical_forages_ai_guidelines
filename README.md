@@ -46,6 +46,9 @@ A list of useful datasets for tropical forages research.
 ### Foundation Models
 
 - [SAM - Segment Anything Model](https://segment-anything.com/)
+- [SAM2]()
+- [DINOv2](https://github.com/facebookresearch/dinov2)
+- [DINOv3](https://github.com/facebookresearch/dinov3)
 
 ## Computer Vision Platforms & Services
 
