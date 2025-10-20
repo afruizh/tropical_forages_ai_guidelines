@@ -59,6 +59,16 @@ A list of useful datasets for tropical forages research.
 - [Databricks](https://www.databricks.com/)
 
 
+### Hugging Face
+
+#### Tips
+
+* Host models
+* Useful python Transformers library to 
+* To download some models it's required
+* Set up `HF_HOME` to change default location of downloaded models (legacy use `TRANSFORMERS_CACHE`)
+* Use **Huggin Spaces** to deploy webapp prototypes
+
 
 ## Labeling Tools
 Recommended tools for data annotation, cleaning, and preprocessing.
@@ -98,6 +108,17 @@ Documentation and tips for reproducible research, data management, and collabora
 
 ## Additional Resources
 - [Quantitative Plant](https://quantitative-plant.org/): repository of datasets, models and tools for plant analysis.
+- [Global Pasture Watch](https://github.com/wri/global-pasture-watch): repository of datasets and training for grasslands.
+
+## Data
+
+- [NASA POWER](https://power.larc.nasa.gov/data-access-viewer/): climate data
+- [MapBiomas]()
+
+### Interesting AI challenges
+
+- [AI for Earth Observation](https://ai4eo.eu/)
+
 
 <!--## Contributing
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to add new resources or suggest improvements.
