@@ -114,6 +114,7 @@ Documentation and tips for reproducible research, data management, and collabora
 
 - [NASA POWER](https://power.larc.nasa.gov/data-access-viewer/): climate data
 - [MapBiomas]()
+- [Adagia](https://adagiatest.alliance.cgiar.org/): climate data for CIAT campus (tree inventory)
 
 ### Interesting AI challenges
 
