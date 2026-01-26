@@ -24,10 +24,12 @@ This repository is designed to help both newcomers and advanced users understand
 ## Datasets
 A list of useful datasets for tropical forages research. 
 
-| Name                | Description                                 | 
-|---------------------|---------------------------------------------|
-| [Dataset: Forage grasses in crop fields from ultra-high spatial resolution UAV-based imagery](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/DBGUFW)  | UAV-based imagery of forage fields          | 
-| [Tolerance to spittlebugs (Hemiptera: Cercopidae) in Urochloa spp. and Megathyrsus maximus grasses](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGUVHA)  | Damage classification |
+| Name | Description |
+|------|-------------|
+| [Dataset: Forage grasses in crop fields from ultra-high spatial resolution UAV-based imagery](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBGUFW) | UAV-based imagery of forage fields |
+| [Tolerance to spittlebugs (Hemiptera: Cercopidae) in Urochloa spp. and Megathyrsus maximus grasses](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGUVHA) | Damage classification |
+| [Top view RGB image dataset of Urochloa hybrids for HTP and AI applications](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/U0KL6Y) | Raceme instance segmentation in forage plants |
+| [RGB Image Dataset of Urochloa Hybrids for High-Throughput Phenotyping and Artificial Intelligence Applications](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X4LM19) | Raceme instance segmentation in forage plants extended |
 
 ## Models
 
@@ -49,6 +51,8 @@ A list of useful datasets for tropical forages research.
 - [SAM2]()
 - [DINOv2](https://github.com/facebookresearch/dinov2)
 - [DINOv3](https://github.com/facebookresearch/dinov3)
+
+# Deployments / Tools
 
 ## Computer Vision Platforms & Services
 
