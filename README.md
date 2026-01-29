@@ -1,3 +1,4 @@
+
 # Tropical Forages AI Guidelines
 
 A curated collection of resources, datasets, models, and tools to support machine learning, deep learning, and AI workflows in the Tropical Forages Program.
@@ -33,8 +34,14 @@ A list of useful datasets for tropical forages research.
 
 ## Models
 
+### 3rd Party pre-trained models
 
-### Pre-trained Models
+* [HighResCanopyHeight](https://github.com/facebookresearch/HighResCanopyHeight)
+* [DeepForest](https://github.com/weecology/DeepForest)
+* [SegRoot](https://github.com/wtwtwt0330/SegRoot)
+
+
+<!-- ### Pre-trained Models -->
 
 
 <!-- | Model Name          | Task                        | Description                  |
@@ -43,7 +50,7 @@ A list of useful datasets for tropical forages research.
 | BiomassEstimator    | Biomass estimation          | Regression model             | -->
 
 
-### Fine-tuned Models
+<!-- ### Fine-tuned Models -->
 
 ### Foundation Models
 
@@ -52,7 +59,22 @@ A list of useful datasets for tropical forages research.
 - [DINOv2](https://github.com/facebookresearch/dinov2)
 - [DINOv3](https://github.com/facebookresearch/dinov3)
 
+### Embeddings
+- [AlphaEarth Embeddings](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_SATELLITE_EMBEDDING_V1_ANNUAL?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content)
+
 # Deployments / Tools
+
+| Name | Description | Image |
+|------|-------------|-------|
+| [TreeEyed: QGIS plugin for tree monitoring](https://github.com/afruizh/treeeyed) | QGIS plugin to leverage AI models for tree monitoring using remote sensing imagery | ![treeeyed.jpg](res/treeeyed.jpg) |
+| [RootingAI](https://github.com/afruizh/root_analysis ) | Root segmentation for underground root scanners | ![rootingai.jpg](res/rootingai.jpg) |
+| [ForagesROIs](https://github.com/afruizh/forages_rois ) | Forage grass detection in crop fields | ![foragesrois.jpg](res/foragesrois.jpg) |
+| [BrRacemecounter](https://github.com/darwin-arrechea-castillo/Mask_RCNN-Raceme_Instance_Segmentation) | Raceme detection and counting | ![brracemecounter.jpg](res/brracemecounter.jpg) |
+| [GrassDamageAI](https://github.com/afruizh/damage_assessment_pipeline) | Damage classification and quantification  | ![grassdamageai.jpg](res/grassdamageai.jpg) |
+| [Forages Chatbot](https://github.com/afruizh/forages_chatbot_streamlit) | RAG Agent tropical forages research assistant chatbot | ![chatbot.jpg](res/chatbot.jpg) |
+
+
+# MLOps
 
 ## Computer Vision Platforms & Services
 
@@ -61,6 +83,10 @@ A list of useful datasets for tropical forages research.
 - [LandingLens](https://landing.ai/landinglens)
 - [HugginFace](https://huggingface.co/)
 - [Databricks](https://www.databricks.com/)
+
+## MLOps Strategy
+
+![Workflow](res/workflow.jpg)
 
 
 ### Hugging Face
@@ -103,12 +129,12 @@ Guides and scripts for common ML/DL workflows in the program.
 - Deployment and inference
 
 
-## Best Practices & Guidelines
+<!-- ## Best Practices & Guidelines
 Documentation and tips for reproducible research, data management, and collaboration.
 
 - How to structure a dataset
 - Version control for data and models
-- Documentation standards
+- Documentation standards -->
 
 ## Additional Resources
 - [Quantitative Plant](https://quantitative-plant.org/): repository of datasets, models and tools for plant analysis.
