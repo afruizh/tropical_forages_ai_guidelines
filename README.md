@@ -20,7 +20,7 @@ A curated collection of resources, datasets, models, and tools to support machin
 ---
 
 ## Overview
-This repository is designed to help both newcomers and advanced users understand and contribute to the AI, ML, and DL efforts of the Tropical Forages Program. Here you will find links to datasets, models, tools, and documentation relevant to our workflows.
+This repository is designed to help both newcomers and advanced users understand and contribute to the AI, ML, and DL efforts of the Tropical Forages Program. Here you will find links to datasets, models, tools, and documentation relevant to our workflows and MLOps.
 
 ## Datasets
 A list of useful datasets for tropical forages research. 
@@ -86,7 +86,7 @@ A list of useful datasets for tropical forages research.
 
 ## MLOps Strategy
 
-![Workflow](res/workflow.jpg)
+![Workflow](res/workflowv2.jpg)
 
 
 ### Hugging Face
