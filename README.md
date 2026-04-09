@@ -40,6 +40,9 @@ A list of useful datasets for tropical forages research.
 * [DeepForest](https://github.com/weecology/DeepForest)
 * [SegRoot](https://github.com/wtwtwt0330/SegRoot)
 
+--
+* [Canopy Height Maps v2 (CHMv2)](https://huggingface.co/facebook/dinov3-vitl16-chmv2-dpt-head)
+
 
 <!-- ### Pre-trained Models -->
 
@@ -91,6 +94,8 @@ A list of useful datasets for tropical forages research.
 
 ### Hugging Face
 
+- [Hugging Face Spaces](https://huggingface.co/spaces) : Test state of the art models
+
 #### Tips
 
 * Host models
@@ -108,18 +113,34 @@ Recommended tools for data annotation, cleaning, and preprocessing.
 - [Roboflow](https://roboflow.com/)
 - [Datumaro](https://github.com/open-edge-platform/datumaro): python library for computer vision dataset manipulation (CVAT uses datumaro)
 
+## Documents OCR
+- [Landing AI - Agentic Document Extraction (ADE)](https://github.com/landing-ai/ade-python)
+- [Docling](https://www.docling.ai/) / [Visual Grounding](https://docling-project.github.io/docling/examples/visual_grounding/)
+
+## Large Language Models
+- [LangChain](https://www.langchain.com/)
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro)
+- [Agent2Agent (A2A) Protocol](https://a2a-protocol.org/latest/)
+
+-- 
+- Agentic RAG System
+
+
 ### Auto labeling
 
 - Grounding DINO
 - YOLOE model
 - SAM (Segment Anything Model)
 
+## Computer Vision Platforms & Services
+
 ## Image Processing Tools
 
 - [QGIS](https://qgis.org/): Open-source GIS for spatial data processing.
 - [Pliman](https://tiagoolivoto.github.io/pliman/)
 - [PlantCV](https://plantcv.readthedocs.io/en/stable/)
-
+- [ImageJ](https://imagej.net/ij/)
+/ [FIJI](https://imagej.net/software/fiji/)
 
 ## Pipelines & Workflows
 Guides and scripts for common ML/DL workflows in the program.
@@ -145,6 +166,13 @@ Documentation and tips for reproducible research, data management, and collabora
 - [NASA POWER](https://power.larc.nasa.gov/data-access-viewer/): climate data
 - [MapBiomas]()
 - [Adagia](https://adagiatest.alliance.cgiar.org/): climate data for CIAT campus (tree inventory)
+
+# Deployment
+
+- [Streamlit](https://streamlit.io/)
+- [Gradio](https://www.gradio.app/)
+- [Google Earth Engine Apps](https://www.earthengine.app/)
+- [ShinyApps](https://www.shinyapps.io/)
 
 ### Interesting AI challenges
 
