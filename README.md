@@ -117,7 +117,11 @@ Recommended tools for data annotation, cleaning, and preprocessing.
 - [Landing AI - Agentic Document Extraction (ADE)](https://github.com/landing-ai/ade-python)
 - [Docling](https://www.docling.ai/) / [Visual Grounding](https://docling-project.github.io/docling/examples/visual_grounding/)
 
-## Large Language Models
+## Speech to text transcription
+
+- [Whisper](https://github.com/openai/whisper)
+
+## Large Language Models (LLM)
 - [LangChain](https://www.langchain.com/)
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [Agent2Agent (A2A) Protocol](https://a2a-protocol.org/latest/)
@@ -141,6 +145,15 @@ Recommended tools for data annotation, cleaning, and preprocessing.
 - [PlantCV](https://plantcv.readthedocs.io/en/stable/)
 - [ImageJ](https://imagej.net/ij/)
 / [FIJI](https://imagej.net/software/fiji/)
+
+## Integrated development environment (IDE)
+
+- [VSCode](https://code.visualstudio.com/) / [Github Copilot Plugin](https://code.visualstudio.com/docs/copilot/overview)
+- [Antigravity](https://antigravity.google/)
+- [Cursor](https://cursor.com/)
+- [Windsurf](https://windsurf.com/editor)
+- [Gemini CLI](https://geminicli.com/)
+- [Claude Code](https://claude.com/product/claude-code)
 
 ## Pipelines & Workflows
 Guides and scripts for common ML/DL workflows in the program.
