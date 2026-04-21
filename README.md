@@ -75,6 +75,7 @@ A list of useful datasets for tropical forages research.
 | [BrRacemecounter](https://github.com/darwin-arrechea-castillo/Mask_RCNN-Raceme_Instance_Segmentation) | Raceme detection and counting | ![brracemecounter.jpg](res/brracemecounter.jpg) |
 | [GrassDamageAI](https://github.com/afruizh/damage_assessment_pipeline) | Damage classification and quantification  | ![grassdamageai.jpg](res/grassdamageai.jpg) |
 | [Forages Chatbot](https://github.com/afruizh/forages_chatbot_streamlit) | RAG Agent tropical forages research assistant chatbot | ![chatbot.jpg](res/chatbot.jpg) |
+| [Document OCR Utility](https://github.com/afruizh/document_ocr_utility) | Utility to apply document OCR | ![ocr.jpg](res/ocr.png) |
 
 
 # MLOps
